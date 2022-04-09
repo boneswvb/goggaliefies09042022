@@ -1,0 +1,32 @@
+.infPhotoStaff {
+  width: 50%;
+  background: #ffff00;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 30%;
+  border-image: linear-gradient(
+    to right,
+    #ff0000 20%,
+    #008000 20%,
+    #008000 40%,
+    #0000ff 40%,
+    #0000ff 60%,
+    #800000 60%,
+    #800000 80%,
+    #d2691e 80%
+  );
+  border-image-slice: 1;
+}
+/* linear-gradient(to right, red, yellow)  */
+.infPhoto {
+  width: 45%;
+  border: 3px #ffff00 solid;
+  border-radius: 15px;
+}
+
+.infPhoto img {
+  width: 70%;
+  height: auto;
+  border: 3px #090ca3 solid;
+  border-radius: 50%;
+}
