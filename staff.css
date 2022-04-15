@@ -1,0 +1,26 @@
+div.polaroid {
+  opacity: .8;
+  display: inline-block;
+  /* border-radius: 15px; */
+  width: 30%;
+  height: auto;
+  margin: 10px;
+  z-index: 5;
+  background-color: rgb(255, 255, 255);
+}
+
+.box {
+  border-radius: 15px;
+  text-align:center;
+  border: 5px teal solid;
+}
+
+.box1 {
+  border: 7px blue solid;
+  border-radius: 15px;
+}
+
+.box2 {
+  border: 9px green solid;
+  border-radius: 15px;
+}
