@@ -1,7 +1,7 @@
 div.polaroid {
   opacity: .8;
   display: inline-block;
-  /* border-radius: 15px; */
+  border-radius: 15px;
   width: 30%;
   height: auto;
   margin: 10px;

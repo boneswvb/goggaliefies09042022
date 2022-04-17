@@ -51,7 +51,7 @@ p {
   transform: scale(2);
 }
 /* header */
-/* logo */
+
 header {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -69,6 +69,7 @@ nav {
   margin-bottom: 10px;
 }
 
+/* logo */
 .logo {
   border: 4px yellow solid;
   border-radius: 50%;
@@ -124,8 +125,9 @@ nav {
 }
 
 .bg {
+  margin: 5px;
   z-index: -5;
-  background-image: url("./images/index/IMG_7762_edited_edited.webp");
+  background-image: url("../images/index/IMG_7762_edited_edited.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
